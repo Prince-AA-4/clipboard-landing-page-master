@@ -227,7 +227,7 @@ a:hover{
     #computer-section #left-side img{
         position: relative;
         right: 0px;
-        clip-path: inset(0 0 0 0);
+        clip-path: none;
     }
 
     .Description{
